@@ -1,0 +1,6 @@
+JUDUL : SISTEM DETEKSI WAJAH PENUNGGU PASIEN DI RUMAH SAKIT
+NAMA ANGGOTA :
+1. SITI NURUL ULUMI (19090105)
+2. PRATAMA ARDY P (20092002)
+KELAS 6D
+note : ppt sudah ada dengan judul sistem deteksi wajah penunggu pasien.pptx
